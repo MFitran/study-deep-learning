@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook (`regression_hit_song.ipynb`) that i
 
 ---
 
-## 🎯 Project Overview and Problem Statement
+##  Project Overview and Problem Statement
 
 The objective of this project is to develop a machine learning model capable of accurately predicting a **continuous numerical Target Variable** based on a set of anonymized numerical features.
 
@@ -18,7 +18,7 @@ The objective of this project is to develop a machine learning model capable of 
 
 ---
 
-## 🛠️ Methodology and Project Steps
+##  Methodology and Project Steps
 
 The notebook follows a standard machine learning workflow:
 
@@ -35,7 +35,7 @@ The notebook follows a standard machine learning workflow:
 
 ---
 
-## 📈 Key Results and Performance Metrics
+##  Key Results and Performance Metrics
 
 The performance of the best-tuned **LightGBM Regressor** model on the **test set** is summarized by the following metrics:
 
@@ -51,7 +51,7 @@ The model achieved an $R^2$ of **0.3485** and a RMSE of **8.8055** on the test s
 
 ---
 
-## ⚙️ How to Run the Notebook
+##  How to Run the Notebook
 
 1.  **Dependencies:** Ensure all required Python libraries are installed (`pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `lightgbm`).
 2.  **Data:** The notebook requires access to the dataset stored at the path `/content/drive/MyDrive/midterm-regresi-dataset.csv`.

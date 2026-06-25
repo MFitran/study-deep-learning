@@ -6,7 +6,7 @@ This chapter moves beyond simple in-memory data loading and focuses on building 
 
 ---
 
-## 📚 Key Concepts Summarized
+##  Key Concepts Summarized
 
 This notebook reproduces the code and theoretical explanations for the following key data pipeline components:
 
@@ -39,7 +39,7 @@ This notebook reproduces the code and theoretical explanations for the following
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow` (version 2.0 or later)

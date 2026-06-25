@@ -4,7 +4,7 @@ This notebook contains the code reproductions and theoretical explanations for C
 
 ---
 
-## 📚 Chapter Summary
+##  Chapter Summary
 
 This chapter covers the crucial final steps in a machine learning project: deploying a trained model into a production environment and scaling up training for large, complex models.
 
@@ -22,7 +22,7 @@ Key topics covered include:
 
 ---
 
-## 🔧 Key Technologies & Tools
+##  Key Technologies & Tools
 
 This notebook serves as a guide to a wide array of production-level tools and concepts:
 
@@ -38,7 +38,7 @@ This notebook serves as a guide to a wide array of production-level tools and co
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 This notebook is primarily a conceptual guide and demonstration of deployment workflows. Fully running the code requires external tools and services.
 

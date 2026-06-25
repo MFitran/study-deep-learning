@@ -1,6 +1,6 @@
 # README: Credit Card Fraud Detection
 
-## 💳 Fraud Transaction Assignment: Credit Card Fraud Detection
+##  Fraud Transaction Assignment: Credit Card Fraud Detection
 
 This repository contains a Jupyter Notebook (`classification_transaction_data.ipynb`) that implements an end-to-end **Machine Learning solution for Credit Card Fraud Detection**.
 
@@ -8,7 +8,7 @@ The goal of this project is to build a classification model capable of accuratel
 
 ---
 
-## 🎯 Problem Statement and Challenge
+##  Problem Statement and Challenge
 
 The task is a **Binary Classification** problem. The primary challenge is the severe **class imbalance** present in the dataset, where fraudulent transactions constitute a very small minority (approximately 3.5% of the training data). This imbalance necessitates the use of specialized evaluation metrics.
 
@@ -21,7 +21,7 @@ The task is a **Binary Classification** problem. The primary challenge is the se
 
 ---
 
-## 💻 Project Outline
+##  Project Outline
 
 The analysis and modeling process is structured into the following key steps:
 
@@ -35,7 +35,7 @@ The analysis and modeling process is structured into the following key steps:
 
 ---
 
-## 📈 Key Results (Hyperparameter-Tuned Model)
+##  Key Results (Hyperparameter-Tuned Model)
 
 The best model achieved the following performance on the validation set:
 
@@ -47,7 +47,7 @@ This performance indicates the model is better than random (ROC-AUC > 0.5) and d
 
 ---
 
-## ⚙️ How to Run the Notebook
+##  How to Run the Notebook
 
 1.  **Dependencies:** Ensure you have the necessary Python libraries installed (e.g., `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`).
 2.  **Data Access:** The notebook is set up to run in a Google Colab environment and requires the transaction CSV files (`train_transaction.csv` and `test_transaction.csv`) to be mounted from Google Drive.

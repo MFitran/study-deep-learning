@@ -6,7 +6,7 @@ It reproduces all the code from the chapter and provides theoretical explanation
 
 ---
 
-## 📚 Key Concepts Summarized
+##  Key Concepts Summarized
 
 This chapter introduces **Decision Trees**, a versatile and powerful machine learning algorithm capable of performing both classification and regression tasks. Unlike "black box" models, Decision Trees are intuitive, and their decisions are easy to interpret, making them "white box" models.
 
@@ -22,7 +22,7 @@ Key concepts covered include:
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `numpy`

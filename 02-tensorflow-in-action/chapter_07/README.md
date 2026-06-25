@@ -35,7 +35,7 @@ This section introduces `keras-tuner`, the official Keras library for finding th
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 
@@ -45,6 +45,6 @@ To run this notebook, you will need the following Python libraries:
 * `os`
 * `datetime`
 
-## 🚀 How to Use
+##  How to Use
 
 You can run the `nb_07 (1).ipynb` file in any compatible Jupyter environment, such as Jupyter Lab, Jupyter Notebook, or Google Colab.

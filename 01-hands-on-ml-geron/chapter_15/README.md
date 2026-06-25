@@ -4,7 +4,7 @@ This notebook contains the code reproductions and theoretical explanations for C
 
 ---
 
-## 📚 Chapter Summary: Key Concepts
+##  Chapter Summary: Key Concepts
 
 This chapter introduces **Recurrent Neural Networks (RNNs)**, a class of neural networks designed to handle sequential data like time series or text. Unlike feedforward networks, RNNs have connections that point backward, allowing them to maintain a form of memory.
 
@@ -23,7 +23,7 @@ Key concepts covered include:
 
 ---
 
-## 💻 Code & Concepts Reproduced
+##  Code & Concepts Reproduced
 
 This notebook provides code examples and theoretical explanations for the following topics:
 
@@ -44,7 +44,7 @@ This notebook provides code examples and theoretical explanations for the follow
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow` (version 2.0 or later)

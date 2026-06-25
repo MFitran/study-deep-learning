@@ -6,7 +6,7 @@ It reproduces all the code from the chapter and provides theoretical explanation
 
 ---
 
-## 📚 Chapter Summary: Key Concepts
+##  Chapter Summary: Key Concepts
 
 This chapter explores several key **Unsupervised Learning** techniques, where models learn from data that has no labels. The notebook focuses on two primary areas: clustering and density estimation.
 
@@ -40,7 +40,7 @@ This section covers GMMs, which are probabilistic models that assume the data is
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `numpy`

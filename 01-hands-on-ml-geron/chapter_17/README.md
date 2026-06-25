@@ -4,7 +4,7 @@ This notebook contains the code reproductions and theoretical explanations for C
 
 ---
 
-## 📚 Chapter Summary
+##  Chapter Summary
 
 This chapter explores two powerful unsupervised learning techniques: **Autoencoders** and **Generative Adversarial Networks (GANs)**. Both are capable of learning dense, compact representations (codings) of data, but they work in very different ways.
 
@@ -39,7 +39,7 @@ The two networks are trained in a zero-sum game, where the generator gets better
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow` (version 2.0 or later)

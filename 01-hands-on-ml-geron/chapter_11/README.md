@@ -6,7 +6,7 @@ This chapter tackles the primary challenges encountered when training very deep 
 
 ---
 
-## 📚 Chapter Summary: Key Problems and Solutions
+##  Chapter Summary: Key Problems and Solutions
 
 This notebook explores the main problems in training DNNs and reproduces the code for their solutions.
 
@@ -38,7 +38,7 @@ With millions of parameters, deep networks are highly prone to overfitting the t
 
 ---
 
-## 💻 Code & Concepts Reproduced
+##  Code & Concepts Reproduced
 
 This notebook provides code examples and theoretical explanations for the following techniques:
 
@@ -53,7 +53,7 @@ This notebook provides code examples and theoretical explanations for the follow
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow` (version 2.0 or later)

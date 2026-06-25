@@ -58,7 +58,7 @@ This section demonstrates how to convert a model to run directly in a web browse
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 To run this notebook and its examples, you will need the following:
 
@@ -70,6 +70,6 @@ To run this notebook and its examples, you will need the following:
 * **Docker:** Required to run the TensorFlow Serving example.
 * **`tensorflowjs`:** The Python command-line tool, installed via `pip install tensorflowjs`.
 
-## 🚀 How to Use
+##  How to Use
 
 You can run the `notebook_16.ipynb` file in any compatible Jupyter environment, such as Jupyter Lab, Jupyter Notebook, or Google Colab.

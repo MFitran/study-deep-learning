@@ -46,7 +46,7 @@ This section demonstrates three different methods for creating efficient data in
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 
@@ -58,6 +58,6 @@ To run this notebook, you will need the following Python libraries:
 * `tensorflow-datasets`
 * `pillow` (PIL)
 
-## 🚀 How to Use
+##  How to Use
 
 You can run the `notebook_03.ipynb` file in any compatible Jupyter environment, such as Jupyter Lab, Jupyter Notebook, or Google Colab.

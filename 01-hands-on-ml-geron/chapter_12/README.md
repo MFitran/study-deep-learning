@@ -6,7 +6,7 @@ This chapter transitions from the high-level `tf.keras` API to TensorFlow's lowe
 
 ---
 
-## 📚 Key Concepts Summarized
+##  Key Concepts Summarized
 
 This notebook reproduces the code and theoretical explanations for the following key concepts:
 
@@ -38,7 +38,7 @@ The notebook demonstrates how to build and save custom components for when the b
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow` (version 2.0 or later)

@@ -6,7 +6,7 @@ This chapter dives deep into the *how* of model training. Instead of treating mo
 
 ---
 
-## 📚 Key Concepts Summarized
+##  Key Concepts Summarized
 
 This notebook covers the following core concepts and techniques:
 
@@ -46,7 +46,7 @@ Finally, the notebook explores how these linear models are adapted for classific
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `numpy`

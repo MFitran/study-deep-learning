@@ -6,7 +6,7 @@ The notebook provides a high-level overview of Machine Learning, focusing on its
 
 ---
 
-## 📚 Key Concepts Summarized
+##  Key Concepts Summarized
 
 This notebook covers the core definitions and concepts introduced in the chapter:
 
@@ -52,7 +52,7 @@ The notebook outlines the main categories of ML systems:
 
 ---
 
-## 💻 Code Example: Life Satisfaction vs. GDP
+##  Code Example: Life Satisfaction vs. GDP
 
 The notebook includes one practical, model-based learning example.
 
@@ -67,7 +67,7 @@ The notebook includes one practical, model-based learning example.
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `pandas`

@@ -6,7 +6,7 @@ The notebook reproduces the code and theoretical explanations for walking throug
 
 ---
 
-## 📈 Project Workflow
+##  Project Workflow
 
 This project follows the typical steps of a data science project, from problem definition to final model evaluation.
 
@@ -51,7 +51,7 @@ The `RandomForestRegressor` is fine-tuned to find the best hyperparameters:
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `numpy`

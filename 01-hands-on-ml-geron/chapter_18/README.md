@@ -4,7 +4,7 @@ This notebook serves as a summary and submission for **Chapter 18** of the book 
 
 ---
 
-## 📚 Chapter Summary: Key Concepts
+##  Chapter Summary: Key Concepts
 
 This chapter introduces **Reinforcement Learning (RL)**, a distinct branch of machine learning where an **agent** learns to make optimal decisions by interacting with an **environment**.
 
@@ -22,7 +22,7 @@ The key concepts covered in this notebook include:
 
 ---
 
-## 💻 Code & Concepts Reproduced
+##  Code & Concepts Reproduced
 
 This notebook provides code examples and theoretical explanations for the following topics:
 
@@ -54,7 +54,7 @@ This notebook provides code examples and theoretical explanations for the follow
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow` (version 2.0 or later)

@@ -51,13 +51,13 @@ Model diuji dengan input kalimat baru untuk memverifikasi kemampuan generalisasi
 **Kasus 1 (Entailment):**
 > *Premise:* "Two men in polo shirts standing in a bar."
 > *Hypothesis:* "They are in a pub."
-> **Prediksi:** **Entailment** (Score: 0.7811) ✅
+> **Prediksi:** **Entailment** (Score: 0.7811) 
 > *Analisis:* Model memahami bahwa "bar" dan "pub" memiliki konteks lokasi yang serupa/berhubungan.
 
 **Kasus 2 (Contradiction):**
 > *Premise:* "A man inspects the uniform of a figure in some East Asian country."
 > *Hypothesis:* "A man is sleeping."
-> **Prediksi:** **Contradiction** (Score: 0.9696) ✅
+> **Prediksi:** **Contradiction** (Score: 0.9696) 
 > *Analisis:* Model dengan tegas mendeteksi pertentangan antara aktivitas "inspects" (aktif) dan "sleeping" (pasif).
 
 ## 6. Kesimpulan & Rekomendasi

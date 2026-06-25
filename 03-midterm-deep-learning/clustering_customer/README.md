@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook (`clustering_customer_behavior.ipynb
 
 ---
 
-## 🎯 Project Overview and Problem Statement
+##  Project Overview and Problem Statement
 
 The core objective is to apply clustering techniques to a credit card transaction dataset to discover distinct and meaningful groups of customers based on their spending and payment behavior.
 
@@ -22,7 +22,7 @@ The discovered customer segments can be leveraged by the bank for business strat
 
 ---
 
-## 🛠️ Methodology and Project Steps
+##  Methodology and Project Steps
 
 The notebook follows a standard clustering workflow:
 
@@ -39,7 +39,7 @@ The notebook follows a standard clustering workflow:
 
 ---
 
-## 📈 Key Results and Interpretation
+##  Key Results and Interpretation
 
 The $\mathbf{K}$-Means model with the chosen optimal $\mathbf{K}$ (e.g., $K=4$) successfully segments the customer base.
 
@@ -56,7 +56,7 @@ The Silhouette Score is also calculated to provide an internal measure of cluste
 
 ---
 
-## ⚙️ How to Run the Notebook
+##  How to Run the Notebook
 
 1.  **Dependencies:** Ensure necessary Python libraries are installed, including `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scikit-learn` (`StandardScaler`, `SimpleImputer`, `KMeans`, `PCA`).
 2.  **Data:** The notebook requires the dataset file named `clusteringmidterm.csv` to be accessible in the execution environment.

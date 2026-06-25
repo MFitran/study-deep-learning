@@ -6,7 +6,7 @@ This chapter introduces **Convolutional Neural Networks (CNNs)**, the architectu
 
 ---
 
-## 📚 Chapter Summary: Key Concepts
+##  Chapter Summary: Key Concepts
 
 This notebook explores the fundamental building blocks of CNNs, from their biological inspiration to advanced applications like object detection and segmentation.
 
@@ -20,7 +20,7 @@ Key concepts covered include:
 
 ---
 
-## 💻 Code & Concepts Reproduced
+##  Code & Concepts Reproduced
 
 This notebook provides code examples and theoretical explanations for the following topics:
 
@@ -44,7 +44,7 @@ The notebook also provides theoretical explanations for more advanced tasks:
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow` (version 2.0 or later)

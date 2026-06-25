@@ -43,7 +43,7 @@ This section provides a more advanced, in-depth example, building a **collaborat
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 
@@ -53,6 +53,6 @@ To run this notebook, you will need the following Python libraries:
 * `numpy`
 * `matplotlib`
 
-## 🚀 How to Use
+##  How to Use
 
 You can run the `notebook_09.ipynb` file in any compatible Jupyter environment, such as Jupyter Lab, Jupyter Notebook, or Google Colab.

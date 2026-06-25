@@ -6,7 +6,7 @@ This chapter introduces **Artificial Neural Networks (ANNs)**, the core of Deep 
 
 ---
 
-## 📚 Key Concepts Summarized
+##  Key Concepts Summarized
 
 This notebook reproduces the code and theoretical explanations for the following key concepts:
 
@@ -17,7 +17,7 @@ This notebook reproduces the code and theoretical explanations for the following
 
 ---
 
-## 💻 Practical Implementation with Keras
+##  Practical Implementation with Keras
 
 This notebook builds and trains several neural networks using `tensorflow.keras`.
 
@@ -55,7 +55,7 @@ Finally, the notebook covers essential practical skills for training and optimiz
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow` (version 2.0 or later)

@@ -6,7 +6,7 @@ As this chapter contains no reproducible code, the focus of the notebook is on s
 
 ---
 
-## 📚 Key Concepts Summarized
+##  Key Concepts Summarized
 
 This notebook covers the fundamental concepts introduced in the chapter:
 
@@ -27,7 +27,7 @@ This notebook covers the fundamental concepts introduced in the chapter:
 
 ---
 
-## 🚀 How to View
+##  How to View
 
 To view this notebook, you can use Jupyter Notebook, Jupyter Lab, or any compatible `.ipynb` viewer.
 

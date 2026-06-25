@@ -6,7 +6,7 @@ The chapter introduces **classification**, one of the most common supervised lea
 
 ---
 
-## 📚 Key Concepts Covered
+##  Key Concepts Covered
 
 This notebook walks through the entire process of building and evaluating classifiers, covering the following topics:
 
@@ -32,7 +32,7 @@ This notebook walks through the entire process of building and evaluating classi
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `numpy`

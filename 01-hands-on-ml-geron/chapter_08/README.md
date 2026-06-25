@@ -37,13 +37,13 @@ This section brings multiple concepts together, culminating in the creation of a
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 
 * `tensorflow`
 * `numpy`
 
-## 🚀 How to Use
+##  How to Use
 
 You can run the `notebook_08.ipynb` file in any compatible Jupyter environment, such as Jupyter Lab, Jupyter Notebook, or Google Colab.

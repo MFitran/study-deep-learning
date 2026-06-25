@@ -6,7 +6,7 @@ It reproduces the code samples from the chapter and provides theoretical explana
 
 ---
 
-## 📚 Chapter Summary: Key Concepts
+##  Chapter Summary: Key Concepts
 
 This chapter provides a deep dive into **Support Vector Machines (SVMs)**, a powerful and versatile set of machine learning models capable of linear or nonlinear classification, regression, and outlier detection.
 
@@ -25,7 +25,7 @@ The key concepts covered in this notebook include:
 
 ---
 
-## 💻 Code & Concepts Reproduced
+##  Code & Concepts Reproduced
 
 This notebook provides code examples and theoretical explanations for the following topics:
 
@@ -66,7 +66,7 @@ The notebook also lists the 10 end-of-chapter exercises for reference.
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `numpy`

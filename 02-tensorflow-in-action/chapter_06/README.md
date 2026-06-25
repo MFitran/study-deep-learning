@@ -33,12 +33,12 @@ This section builds and trains three different RNN models for classification:
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `tensorflow`
 * `numpy`
 
-## 🚀 How to Use
+##  How to Use
 
 You can run the `notebook_06.ipynb` file in any compatible Jupyter environment, such as Jupyter Lab, Jupyter Notebook, or Google Colab.

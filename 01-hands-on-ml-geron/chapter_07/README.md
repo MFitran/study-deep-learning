@@ -6,7 +6,7 @@ It reproduces all the code from the chapter and provides theoretical explanation
 
 ---
 
-## 📚 Chapter Summary: Key Concepts
+##  Chapter Summary: Key Concepts
 
 This chapter explores **Ensemble Learning**, a technique that aggregates the predictions of a group of predictors (an *ensemble*) to achieve a better prediction than any single predictor. This is often called the "wisdom of the crowd".
 
@@ -23,7 +23,7 @@ The main ensemble methods covered in this notebook are:
 
 ---
 
-## 💻 Code & Concepts Reproduced
+##  Code & Concepts Reproduced
 
 This notebook provides code examples and theoretical explanations for the following topics:
 
@@ -37,7 +37,7 @@ This notebook provides code examples and theoretical explanations for the follow
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 To run this notebook, you will need the following Python libraries:
 * `numpy`
